@@ -6,6 +6,8 @@
 Automated Model Assembly from Text, Equations, and Software
 - [Delphi](https://ml4ai.github.io/delphi/):
 Assembling causal, dynamic probabilistic models from Text and Software
+- [Musica](http://musica.ml4ai.org/):
+MUSical Interactive Collaborative Agent
 
 ## People
 
