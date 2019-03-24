@@ -2,8 +2,10 @@
 
 ## Current Projects
 
-- [AutoMATES](https://ml4ai.github.io/automates/)
-- [Delphi](https://ml4ai.github.io/delphi/)
+- [AutoMATES](https://ml4ai.github.io/automates/): 
+Automated Model Assembly from Text, Equations, and Software
+- [Delphi](https://ml4ai.github.io/delphi/):
+Assembling causal, dynamic probabilistic models from Text and Software
 
 ## People
 
