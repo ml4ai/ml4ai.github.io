@@ -1,10 +1,9 @@
-# ml4ai.github.io
-The Machine Learning for Artificial Intelligence Lab
+# The Machine Learning for Artificial Intelligence Lab
 
 ## Current Projects
 
 - [AutoMATES](https://ml4ai.github.io/automates/)
-= [Delphi](https://ml4ai.github.io/delphi/)
+- [Delphi](https://ml4ai.github.io/delphi/)
 
 ## People
 
