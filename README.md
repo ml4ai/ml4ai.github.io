@@ -16,7 +16,7 @@ MUSical Interactive Collaborative Agent
 ## People
 
 - [Clayton T. Morrison](http://w3.sista.arizona.edu/~clayton/)
-- Adarsh Pyarelal
+- [Adarsh Pyarelal](http://adarsh.cc)
 - Souratosh Khan
 - Enrique Noriega
 - David Sidi
