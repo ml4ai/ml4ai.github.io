@@ -1,0 +1,17 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ML4AI
+tagline:          'Machine Learning for Artifical Intelligence'
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://ml4ai.github.com
+
+plugins:
+  - jekyll-toc
