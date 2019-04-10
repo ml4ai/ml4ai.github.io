@@ -2,8 +2,8 @@
   <div class="container">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
-          <img src="public/ml4ai.png"></img>
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/public/ml4ai.png" style="max-width: 200px; margin:auto"></img>
         </a>
       </h1>
     </div>
@@ -11,6 +11,8 @@
     <nav class="sidebar-nav">
 
       <a class="sidebar-nav-item" href="{{ site.baseurl }}">About</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/people">People</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}/projects">Projects</a>
 
       {% if page.toc %}
         <h4 style="color: white;">{{ page.title }}</h4>
