@@ -18,6 +18,6 @@ title: People
 - [David Sidi](http://u.arizona.edu/~dsidi/)
 - [Shraddha Thumsi](https://github.com/shraddhathumsi)
 - [Paul Hein](https://github.com/pauldhein)
-- Matsuura
+- [Matsuura](https://lingprefix.info/)
 - [Ryan Melzer](https://github.com/rdmelzer)
 - [Trent Prynn](https://github.com/trentprynn)
