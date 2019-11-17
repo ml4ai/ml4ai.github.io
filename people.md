@@ -3,7 +3,7 @@ title: People
 ---
 
 ## Faculty
-- [Clayton T. Morrison](http://w3.sista.arizona.edu/~clayton/)
+- [Clayton T. Morrison](people/clayton/)
 
 ## Research Scientists
 - [Adarsh Pyarelal](http://adarsh.cc)
