@@ -5,17 +5,25 @@
     	
    	  <tr>
    	  <td width="120">
-   		<img src="clayton-190x258.png" width="100%">
+   		<img src="clayton/clayton-190x258.png" width="100%">
    	  </td>
    	
    	  <td>
-   		<font size=+2><b>Clayton T. Morrison</b></font><br><br>
-   		<font size=+1><b>Associate Professor</b></font><br>
+   	   <h2>Clayton T. Morrison</h2>
+   		<!-- <font size=+2><b>Clayton T. Morrison</b></font><br><br> -->
+   		<h3> Associate Professor </h3>
+   		<!-- <font size=+1><b>Associate Professor</b></font><br> -->
 		<!-- <font size=+1><b>Associate Director</b></font><br> -->
+		<a href="http://si.arizona.edu">School of Information</a><br>
+		<a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a><br>
+		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
+		University of Arizona
+		<!--
 		<font size=+1><a href="http://si.arizona.edu">School of Information</a></font><br>
 		<font size=+1><a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a></font><br>
 		<font size=+1><a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a></font><br>
 		<font size=+1>University of Arizona</font>
+		-->
 <!--
 		<font size=+1>and 
 		  <a href="http://www.cs.arizona.edu/personnel/joint.html">joint faculty</a> 
