@@ -3,7 +3,7 @@ title: People
 ---
 
 ## Faculty
-- [Clayton T. Morrison](clayton/)
+- [Clayton T. Morrison](clayton/clayton.md)
 
 ## Research Scientists
 - [Adarsh Pyarelal](http://adarsh.cc)
