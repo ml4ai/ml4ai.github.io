@@ -5,7 +5,7 @@
     	
    	  <tr>
    	  <td width="120">
-   		<img src="clayton/clayton-190x258.png" width="100%">
+   		<img src="https://ml4ai.github.io/people/clayton/clayton-190x258.png" width="100%">
    	  </td>
    	
    	  <td>
