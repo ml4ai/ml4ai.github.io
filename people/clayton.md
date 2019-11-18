@@ -17,6 +17,7 @@
 		<a href="http://si.arizona.edu">School of Information</a><br>
 		<a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a><br>
 		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
+		<a href="https://www.cs.arizona.edu/">Computer Science</a> (Affiliated Faculty)<br>
 		University of Arizona
 		<!--
 		<font size=+1><a href="http://si.arizona.edu">School of Information</a></font><br>
