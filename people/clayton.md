@@ -4,7 +4,7 @@
     	<b>Clayton T. Morrison</b></font></h1> -->
     	
    	  <tr>
-   	  <td width="120">
+   	  <td width="160">
    		<img src="https://ml4ai.github.io/people/clayton/clayton-190x258.png" width="100%">
    	  </td>
    	
