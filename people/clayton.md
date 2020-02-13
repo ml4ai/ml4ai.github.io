@@ -51,7 +51,7 @@
 
 ## Affiliations
 
-* My Lab:  <a href="https://ml4ai.github.io/">Machine Learning for Artificial Intelligence (ML4AI) Lab</a></li>
+* My Lab:  <a href="https://ml4ai.github.io/">Machine Learning for Artificial Intelligence (ML4AI) Lab</a>
 
 <ul>
 	<li> <a href="https://datascience.arizona.edu/">Data Science Institute (Data7)</a></li>  
