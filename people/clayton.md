@@ -17,7 +17,7 @@
 		<a href="http://si.arizona.edu">School of Information</a><br>
 		<a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a><br>
 		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
-		<a href="https://www.cs.arizona.edu/">Computer Science</a> (Affiliated Faculty)<br>
+		<a href="https://www.cs.arizona.edu/">Computer Science</a> (<a href="https://www.cs.arizona.edu/about/faculty/affiliated-faculty">Affiliated Faculty</a>)<br>
 		University of Arizona
 		<!--
 		<font size=+1><a href="http://si.arizona.edu">School of Information</a></font><br>
@@ -59,4 +59,25 @@
 	<li> <a href="http://clulab.cs.arizona.edu/">Computational Language Understanding (CLU) Lab</a></li>
 	<li> <a href="http://ml.arizona.edu/">Machine Learning at University of Arizona</a> </li>
 	<li> <a href="http://nlp.arizona.edu/">University of Arizona NLP Cluster</a> </li>
+</ul>
+
+
+## Teaching
+
+<ul>
+	<li><b>Current - Spring 2020:</b>
+	<ul>
+		<li><a href="https://ml4ai-2020-spring-ai.github.io/">ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</a></li>
+	</ul>
+	</li>
+</ul>
+
+
+## <a href="https://ml4ai.github.io/projects/">Current Projects</a>
+
+
+## Previous Projects
+
+<ul>
+<li><a href="">Student Scientists</a> Enabling student/scientist collaboration in the classforom, in collaboration with researchers at the University of Arizona <a href="http://www.b2science.org/">Biosphere 2</a></li>
 </ul>
