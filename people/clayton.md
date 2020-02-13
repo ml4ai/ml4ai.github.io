@@ -79,5 +79,5 @@
 ## Previous Projects
 
 <ul>
-<li><a href="https://ml4ai.github.io/people/projects/evap-web/index.md">Student Scientists</a> Enabling student/scientist collaboration in the classforom, in collaboration with researchers at the University of Arizona <a href="http://www.b2science.org/">Biosphere 2</a></li>
+<li><a href="https://ml4ai.github.io/people/projects/evap-web/index">Student Scientists</a> Enabling student/scientist collaboration in the classforom, in collaboration with researchers at the University of Arizona <a href="http://www.b2science.org/">Biosphere 2</a></li>
 </ul>
