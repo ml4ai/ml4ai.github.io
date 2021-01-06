@@ -11,6 +11,7 @@ title: People
 ## Research Programmers
 - [Paul Hein](https://github.com/pauldhein)
 - [Daniel Dicken](https://github.com/dpdicken)
+- [Gaurav Sharma](https://github.com/gauravsh0812)
 
 ## Affiliated Researcher
 - [Sean M. Hendryx](https://smhendryx.github.io/)
