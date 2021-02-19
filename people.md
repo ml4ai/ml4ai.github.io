@@ -8,10 +8,15 @@ title: People
 ## Research Scientists
 - [Adarsh Pyarelal](http://adarsh.cc)
 
+## Postdocs
+- [Liang Zhang](https://github.com/ualiangzhang)
+
 ## Research Programmers
 - [Paul Hein](https://github.com/pauldhein)
 - [Daniel Dicken](https://github.com/dpdicken)
 - [Gaurav Sharma](https://github.com/gauravsh0812)
+- [Joseph Astier](https://github.com/jastier)
+- [Vincent Raymond](https://github.com/vincentraymond-ua)
 
 ## Affiliated Researcher
 - [Sean M. Hendryx](https://smhendryx.github.io/)
@@ -25,4 +30,3 @@ title: People
 - [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (Statistics MS)
 - [Alexander Winchester](https://www.math.arizona.edu/people/winchester) (Statistics PhD)
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
-
