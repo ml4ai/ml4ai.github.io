@@ -14,6 +14,7 @@ title: People
 ## Research Programmers
 - [Paul Hein](https://github.com/pauldhein)
 - [Daniel Dicken](https://github.com/dpdicken)
+- [Tito Ferra](https://github.com/titomeister)
 - [Gaurav Sharma](https://github.com/gauravsh0812)
 - [Joseph Astier](https://github.com/jastier)
 - [Vincent Raymond](https://github.com/vincentraymond-ua)
