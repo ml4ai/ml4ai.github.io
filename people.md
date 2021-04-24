@@ -8,10 +8,15 @@ title: People
 ## Research Scientists
 - [Adarsh Pyarelal](http://adarsh.cc)
 
+## Postdocs
+- [Liang Zhang](https://github.com/ualiangzhang)
+
 ## Research Programmers
 - [Paul Hein](https://github.com/pauldhein)
 - [Daniel Dicken](https://github.com/dpdicken)
 - [Gaurav Sharma](https://github.com/gauravsh0812)
+- [Joseph Astier](https://github.com/jastier)
+- [Vincent Raymond](https://github.com/vincentraymond-ua)
 
 ## Affiliated Researchers
 - [Sean M. Hendryx](https://smhendryx.github.io/)
