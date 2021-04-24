@@ -13,16 +13,20 @@ title: People
 - [Daniel Dicken](https://github.com/dpdicken)
 - [Gaurav Sharma](https://github.com/gauravsh0812)
 
-## Affiliated Researcher
+## Affiliated Researchers
 - [Sean M. Hendryx](https://smhendryx.github.io/)
 
 ## Students
-- [Enrique Noriega](https://enoriega.info/about) (INFO PhD)
-- [Maria Alexeeva](https://linguistics.arizona.edu/user/maria-alexeeva) (Lingistics PhD)
 - [Loren Champlin](https://github.com/lchamp87x) (INFO PhD)
 - [Salena Ashton Torres](https://github.com/SalenaAshton) (INFO PhD)
+- [Enrique Noriega](https://enoriega.info/about) (INFO PhD)
+- [Maria Alexeeva](https://linguistics.arizona.edu/user/maria-alexeeva) (Lingistics PhD)
+- [Alice Kwak](https://linguistics.arizona.edu/user/alice-kwak) (Linguistics PhD)
 - [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
 - [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (Statistics MS)
 - [Alexander Winchester](https://www.math.arizona.edu/people/winchester) (Statistics PhD)
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
 
+## Alumni
+- [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
+- [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now a postdoc in [the CLU lab](http://clulab.cs.arizona.edu/))
