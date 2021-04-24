@@ -25,12 +25,11 @@ title: People
 ## Students
 - [Loren Champlin](https://github.com/lchamp87x) (INFO PhD)
 - [Salena Ashton Torres](https://github.com/SalenaAshton) (INFO PhD)
-- [Enrique Noriega](https://enoriega.info/about) (INFO PhD)
 - [Maria Alexeeva](https://linguistics.arizona.edu/user/maria-alexeeva) (Lingistics PhD)
 - [Alice Kwak](https://linguistics.arizona.edu/user/alice-kwak) (Linguistics PhD)
 - [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
-- [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (Statistics MS)
 - [Alexander Winchester](https://www.math.arizona.edu/people/winchester) (Statistics PhD)
+- [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (Statistics MS)
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
 
 ## Alumni
