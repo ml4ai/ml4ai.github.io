@@ -14,7 +14,7 @@ February
 
 * ICML
 
-April 
+April
 -----
 
 * IEEE Conference on Games
@@ -25,31 +25,32 @@ May
 * NeurIPS
 * EMNLP
 
-July 
+July
 ----
 
 * AAAI Fall Symposium
 
-September 
+September
 ---------
 
 * AAAI
+* NeurIPS Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop
 
-October 
+October
 -------
 
 * AAMAS
 * AISTATS
 * EACL
 
-November 
+November
 --------
 
 * AAAI Spring Symposium
 * NAACL
 * PAIR (Plan, Activity, and Intent Recognition) workshop
 
-December 
+December
 --------
 
 * ACL
