@@ -19,6 +19,8 @@
 		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
 		<a href="https://www.cs.arizona.edu/">Computer Science</a> (<a href="https://www.cs.arizona.edu/about/faculty/affiliated-faculty">Affiliated Faculty</a>)<br>
 		University of Arizona
+		<br>
+		[<a href="https://ml4ai.github.io/people/clayton/Morrison-CV.pdf">cv</a>]
 		<!--
 		<font size=+1><a href="http://si.arizona.edu">School of Information</a></font><br>
 		<font size=+1><a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a></font><br>
