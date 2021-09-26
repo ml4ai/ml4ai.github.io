@@ -12,10 +12,8 @@ title: People
 - [Liang Zhang](https://github.com/ualiangzhang)
 
 ## Research Programmers
-- [Paul Hein](https://github.com/pauldhein)
 - [Daniel Dicken](https://github.com/dpdicken)
 - [Tito Ferra](https://github.com/titomeister)
-- [Gaurav Sharma](https://github.com/gauravsh0812)
 - [Joseph Astier](https://github.com/jastier)
 - [Vincent Raymond](https://github.com/vincentraymond-ua)
 
@@ -25,6 +23,7 @@ title: People
 ## Students
 - [Loren Champlin](https://github.com/lchamp87x) (INFO PhD)
 - [Salena Ashton Torres](https://github.com/SalenaAshton) (INFO PhD)
+- [Gaurav Sharma](https://github.com/gauravsh0812) (INFO PhD)
 - [Maria Alexeeva](https://linguistics.arizona.edu/user/maria-alexeeva) (Lingistics PhD)
 - [Alice Kwak](https://linguistics.arizona.edu/user/alice-kwak) (Linguistics PhD)
 - [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
@@ -35,3 +34,4 @@ title: People
 ## Alumni
 - [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
 - [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now a postdoc in [the CLU lab](http://clulab.cs.arizona.edu/))
+- [Paul Hein](https://github.com/pauldhein) (MS Computer Science 2019, now working for [Rock Central](https://www.rockcentraldetroit.com/))
