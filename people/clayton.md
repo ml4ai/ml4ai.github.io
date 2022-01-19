@@ -67,9 +67,9 @@
 ## Teaching
 
 <ul>
-	<li><b>Current - Spring 2020:</b>
+	<li><b>Current - Spring 2022:</b>
 	<ul>
-		<li><a href="https://ml4ai-2020-spring-ai.github.io/">ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</a></li>
+		<li><a href="https://ml4ai-2022-ai.github.io/">ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</a></li>
 	</ul>
 	</li>
 </ul>
