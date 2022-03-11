@@ -19,6 +19,8 @@
 		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
 		<a href="https://www.cs.arizona.edu/">Computer Science</a> (<a href="https://www.cs.arizona.edu/about/faculty/affiliated-faculty">Affiliated Faculty</a>)<br>
 		University of Arizona
+		<br>
+		[<a href="https://ml4ai.github.io/people/clayton/Morrison-CV.pdf">cv</a>]
 		<!--
 		<font size=+1><a href="http://si.arizona.edu">School of Information</a></font><br>
 		<font size=+1><a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a></font><br>
@@ -65,9 +67,9 @@
 ## Teaching
 
 <ul>
-	<li><b>Current - Spring 2020:</b>
+	<li><b>Current - Spring 2022:</b>
 	<ul>
-		<li><a href="https://ml4ai-2020-spring-ai.github.io/">ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</a></li>
+		<li><a href="https://ml4ai-2022-ai.github.io/">ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</a></li>
 	</ul>
 	</li>
 </ul>
