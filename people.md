@@ -18,6 +18,7 @@ title: People
 - [Gaurav Sharma](https://github.com/gauravsh0812)
 - [Joseph Astier](https://github.com/jastier)
 - [Vincent Raymond](https://github.com/vincentraymond-ua)
+- Rick Champlin
 
 ## Affiliated Researchers
 - [Sean M. Hendryx](https://smhendryx.github.io/)
