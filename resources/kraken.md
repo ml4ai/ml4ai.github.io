@@ -1,4 +1,6 @@
-# SSHing into kraken
+---
+title: SSHing into kraken
+---
 
 Kraken is our compute VM that is running on Euphrates, the compute server we
 bought for the lab on the [ToMCAT](https://ml4ai.github.io/tomcat) grant. It
