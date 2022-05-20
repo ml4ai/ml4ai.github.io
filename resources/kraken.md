@@ -26,6 +26,12 @@ Host kraken
     HostName kraken.sista.arizona.edu
 ```
 
+If your username is different from your UA NetID, add a line like the one below above the `HostName kraken.sista.arizona.edu` line:
+
+```
+    User <username>
+```
+
 3. Copy your SSH key to kraken by running the following command:
 
 ```
