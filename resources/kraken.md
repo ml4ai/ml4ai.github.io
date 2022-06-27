@@ -8,13 +8,13 @@ is fairly capable (~750 GB RAM, 128 cores, two A100 GPUs).
 
 Here are instructions for SSH-ing into Kraken:
 
-1. Generate an SSH key by running the following command (I recommend not requiring a passphrase as it will get old to keep typing it in):
+- Generate an SSH key by running the following command (I recommend not requiring a passphrase as it will get old to keep typing it in):
 
 ```
 ssh-keygen -t ed25519
 ```
 
-2. Put the following lines in your `~/.ssh/config` file:
+-  Put the following lines in your `~/.ssh/config` file:
 
 ```
 Host *
@@ -26,13 +26,14 @@ Host kraken
     HostName kraken.sista.arizona.edu
 ```
 
-If your username is different from your UA NetID, add a line like the one below above the `HostName kraken.sista.arizona.edu` line:
+If your username on your local computer is different from your UA NetID, add a
+line like the one below above the `HostName kraken.sista.arizona.edu` line:
 
 ```
     User <username>
 ```
 
-3. Copy your SSH key to kraken by running the following command:
+- Copy your SSH key to kraken by running the following command:
 
 ```
 ssh-copy-id kraken
