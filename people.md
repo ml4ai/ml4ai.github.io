@@ -27,9 +27,9 @@ title: People
 - [Salena Ashton Torres](https://github.com/SalenaAshton) (INFO PhD)
 - [Gaurav Sharma](https://github.com/gauravsh0812) (INFO PhD)
 - [Deepsana Shahi](https://github.com/deepsana) (INFO PhD)
+- [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
 - [Maria Alexeeva](https://linguistics.arizona.edu/user/maria-alexeeva) (Lingistics PhD)
 - [Alice Kwak](https://linguistics.arizona.edu/user/alice-kwak) (Linguistics PhD)
-- [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
 <!-- - [Alexander Winchester](https://www.math.arizona.edu/people/winchester) (Statistics PhD) -->
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
 
