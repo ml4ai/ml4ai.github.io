@@ -35,4 +35,4 @@ title: People
 - [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
 - [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now a postdoc in [the CLU lab](http://clulab.cs.arizona.edu/))
 - [Paul Hein](https://github.com/pauldhein) (MS Computer Science 2019, now working for [Rock Central](https://www.rockcentraldetroit.com/))
-- [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (Statistics MS 2022)
+- [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (MS Statistics 2022)
