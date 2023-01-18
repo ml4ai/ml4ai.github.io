@@ -7,9 +7,7 @@ title: Current Projects
 - [ToMCAT](https://ml4ai.github.io/tomcat): Theory of Mind-based Cognitive Architecture for Teams
 - [Reach](https://github.com/clulab/reach): Reading and Assembling Contextual and Holistic Mechanisms from Text
 
----
-title: Previous Projects
----
+## Previous Projects
 
 - GraSEN: Graphical Symbol Expression Network
 - [AutoMATES](https://ml4ai.github.io/automates/): Automated Model Assembly from Text, Equations, and Software
