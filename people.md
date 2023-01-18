@@ -3,8 +3,11 @@ title: People
 ---
 
 ## Faculty
-- [Clayton T. Morrison](clayton)
-- [Adarsh Pyarelal](http://adarsh.cc)
+- [Clayton T. Morrison](clayton) (Associate Professor, [School of Information](https://ischool.arizona.edu/))
+- [Adarsh Pyarelal](http://adarsh.cc) (Assistant Research Professor, [School of Information](https://ischool.arizona.edu/))
+
+## Research Scientist
+- [Enrique Noriega](https://enoriega.info/about) ([Computer Science](https://www.cs.arizona.edu/))
 
 ## Postdocs
 - [Justin Leiffers](https://github.com/Free-Quarks)
@@ -33,6 +36,6 @@ title: People
 
 ## Alumni
 - [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
-- [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now a postdoc in [the CLU lab](http://clulab.cs.arizona.edu/))
+- [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now Research Scientist in UA Computer Science)
 - [Paul Hein](https://github.com/pauldhein) (MS Computer Science 2019, now working for [Rock Central](https://www.rockcentraldetroit.com/))
 - [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (MS Statistics 2022)
