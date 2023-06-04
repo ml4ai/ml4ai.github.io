@@ -80,7 +80,7 @@
 </ul>
 
 
-## <a href="https://ml4ai.github.io/projects/">Current Projects</a>
+## <a href="https://ml4ai.github.io/projects/">Projects</a>
 
 
 <!--
