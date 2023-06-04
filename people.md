@@ -4,7 +4,7 @@ title: People
 
 ## Faculty
 - [Clayton T. Morrison](clayton) (Associate Professor, [School of Information](https://ischool.arizona.edu/))
-- [Adarsh Pyarelal](http://adarsh.cc) (Assistant Research Professor, [School of Information](https://ischool.arizona.edu/))
+- [Adarsh Pyarelal](http://adarsh.cc) (Assistant Professor, [School of Information](https://ischool.arizona.edu/))
 
 ## Research Scientist
 - [Enrique Noriega](https://enoriega.info/about) ([Computer Science](https://www.cs.arizona.edu/))
