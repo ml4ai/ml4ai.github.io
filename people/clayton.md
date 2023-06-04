@@ -67,6 +67,11 @@
 ## Teaching
 
 <ul>
+	<li><b>Fall 2023:</b>
+	<ul>
+		<li>ISTA 421 / INFO 521 - Introduction to Machine Learning</li>
+	</ul>
+	</li>
 	<li><b>Spring 2022:</b>
 	<ul>
 		<li>ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</li>
@@ -78,8 +83,10 @@
 ## <a href="https://ml4ai.github.io/projects/">Current Projects</a>
 
 
+<!--
 ## Previous Projects
 
 <ul>
 <li><a href="https://ml4ai.github.io/projects/evap-web/index.html">Student Scientists</a> Enabling student/scientist collaboration in the classforom, in collaboration with researchers at the University of Arizona <a href="http://www.b2science.org/">Biosphere 2</a></li>
 </ul>
+-->
