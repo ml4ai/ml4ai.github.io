@@ -13,4 +13,8 @@ title: Current Projects
 - [AutoMATES](https://ml4ai.github.io/automates/): Automated Model Assembly from Text, Equations, and Software
 - [Delphi](https://ml4ai.github.io/delphi/): Assembling causal, dynamic probabilistic models from Text and Software
 - [Eidos](https://github.com/clulab/eidos): Open-domain machine reading
-- [Musica](http://musica.ml4ai.org/): MUSical Interactive Collaborative Agent
+- Musica<!-- (https://musica.ml4ai.org/ -->: MUSical Interactive Collaborative Agent
+- [Student Scientists](https://ml4ai.github.io/projects/evap-web/index.html)
+(2010-2013): Enabling student/scientist collaboration in the
+classroom, in collaboration with researchers at the University of
+Arizona [Biosphere 2](http://www.b2science.org/)
