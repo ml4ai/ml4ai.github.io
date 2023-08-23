@@ -25,7 +25,7 @@ title: People
 
 ## Students
 - [Loren Champlin](https://github.com/lchamp87x) (INFO PhD)
-- [Salena Ashton Torres](https://github.com/SalenaAshton) (INFO PhD)
+- [Salena Torres Ashton](https://github.com/SalenaAshton) (INFO PhD)
 - [Gaurav Sharma](https://github.com/gauravsh0812) (INFO PhD)
 - [Deepsana Shahi](https://github.com/deepsana) (INFO PhD)
 - [Dharma Raj KC](https://www.cs.arizona.edu/person/dharma-kc) (CS PhD)
