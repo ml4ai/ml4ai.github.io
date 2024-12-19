@@ -33,6 +33,7 @@ title: People
 - [Alice Kwak](https://linguistics.arizona.edu/user/alice-kwak) (Linguistics PhD)
 <!-- - [Alexander Winchester](https://www.math.arizona.edu/people/winchester) (Statistics PhD) -->
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
+- [Minglai Yang](https://ymingl.com) (CS BS)
 
 ## Alumni
 - [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
