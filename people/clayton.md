@@ -14,7 +14,8 @@
    		<h3> Associate Professor </h3>
    		<!-- <font size=+1><b>Associate Professor</b></font><br> -->
 		<!-- <font size=+1><b>Associate Director</b></font><br> -->
-		<a href="http://si.arizona.edu">School of Information</a><br>
+		<!-- <a href="http://si.arizona.edu">School of Information</a><br> -->
+		<a href="https://infosci.arizona.edu">College of Information Science</a><br>
 		<a href="http://stat.arizona.edu/">Statistics Graduate Interdisciplinary Program</a><br>
 		<a href="https://cogsci.arizona.edu/">Cognitive Science Graduate Interdisciplinary Program</a><br>
 		<a href="https://www.cs.arizona.edu/">Computer Science</a> (<a href="https://www.cs.arizona.edu/about/faculty/affiliated-faculty">Affiliated Faculty</a>)<br>
@@ -45,7 +46,7 @@
       School of Information<br>
       Tucson, AZ  85721<br>
       <br>
-      e-mail: <strong>claytonm@email.arizona.edu</strong><br>
+      e-mail: <strong>claytonm@arizona.edu</strong><br>
       Office: 520-621-6609
     </li>
 </ul>
@@ -67,6 +68,11 @@
 ## Teaching
 
 <ul>
+	<li><b>Fall 2024:</b>
+	<ul>
+		<li>ISTA 457 / INFO 557 - Neural Networks</li>
+	</ul>
+	</li>
 	<li><b>Fall 2023:</b>
 	<ul>
 		<li>ISTA 421 / INFO 521 - Introduction to Machine Learning</li>
