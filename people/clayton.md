@@ -68,17 +68,17 @@
 ## Teaching
 
 <ul>
-	<li><b>Fall 2024:</b>
+        <li><b>Spring 2025</b>, Fall 2024
 	<ul>
 		<li>ISTA 457 / INFO 557 - Neural Networks</li>
 	</ul>
 	</li>
-	<li><b>Fall 2023:</b>
+	<li>Fall 2023
 	<ul>
 		<li>ISTA 421 / INFO 521 - Introduction to Machine Learning</li>
 	</ul>
 	</li>
-	<li><b>Spring 2022:</b>
+	<li>Spring 2022
 	<ul>
 		<li>ISTA 450 / INFO 550 - Introduction to Artificial Intelligence</li>
 	</ul>
