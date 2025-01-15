@@ -33,9 +33,9 @@ title: People
 - [Minglai Yang](https://ymingl.com) (CS BS)
 
 ## Alumni
-- [Justin Lieffers](https://github.com/Free-Quarks)
+- [Justin Lieffers](https://github.com/Free-Quarks) (PhD Physics 2022, now working at [MITRE](https://www.mitre.org/))
 - [Matsuura](https://lingprefix.info/) (Linguistics BA)
 - [Colin Dawson](http://colinreimerdawson.com/) (PhD Statisics 2016, currently Assistant Professor in the [Mathematics Department](https://www.oberlin.edu/arts-and-sciences/departments/mathematics) at [Oberlin College](https://www.oberlin.edu/))
-- [Enrique Noriega](https://enoriega.info/about) (PhD School of Information 2020, now Research Scientist in UA [Computer Science](https://www.cs.arizona.edu/))
+- [Enrique Noriega](https://enoriega.info/about) (PhD Information 2020, now Research Scientist in UA [Computer Science](https://www.cs.arizona.edu/))
 - [Paul Hein](https://github.com/pauldhein) (MS Computer Science 2019, now working for [Rock Central](https://www.rockcentraldetroit.com/))
 - [Sayeh Peterson](https://www.math.arizona.edu/people/petersons) (MS Statistics 2022)
